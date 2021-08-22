@@ -1,2 +1,5 @@
 This is my test file. 
-Addming another line. 
+Adding another line.
+
+Making new corrections for upcoming additons. 
+ 
