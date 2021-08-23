@@ -1,2 +1,2 @@
 This is my test file. 
-Addming another line. 
+Adding another line. 
